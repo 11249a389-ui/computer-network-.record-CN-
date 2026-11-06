@@ -1,0 +1,21 @@
+Experiments
+No.	Experiment
+01	Network commands and capture ping/traceroute packets
+02	Identify machine hostname and IP address
+03	HTTP client using TCP sockets
+04	TCP Echo client and server
+05	TCP Chat application
+06	TCP File transfer
+07	ARP/RARP simulation
+08	Study of NS2
+09	Congestion control simulation using NS2
+10	TCP/UDP performance using NS2
+11	Distance Vector Routing using NS2
+12	Link State Routing using NS2
+13	Obtain local DNS server hostname and IP address
+14	CRC error detection
+15	Wireshark capture filters
+16	RTP delay/loss analysis in Wireshark
+17	Inspect packets using Wireshark
+18	Simple LAN using Cisco Packet Tracer
+19	Benchmark LAN Trainer Kit topologies
